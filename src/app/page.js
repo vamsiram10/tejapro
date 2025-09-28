@@ -12,9 +12,9 @@ export default function Page() {
   return (
     <div
       style={{
-        backgroundImage: "url('/hero.jpg')",
+        backgroundImage: "url('/ff.jpg')",
         backgroundRepeat: "repeat",
-        backgroundSize: "auto",
+        backgroundSize: "contain",
         backgroundPosition: "top left",
         minHeight: "1000vh",
         width: "100vw",
