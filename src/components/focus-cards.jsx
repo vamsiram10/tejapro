@@ -62,7 +62,7 @@ function FocusCards({ cards }) {
       {/* Search bar at top right */}
       <form
         onSubmit={handleSearch}
-        className="z-10 absolute right-[-15%] top-4 right-4 right-8 right-12 top-25 flex items-center gap-2 mt-2 sm:absolute md:absolute lg:absolute"
+        className="z-10 absolute right-[3%] top-4 right-4 right-8 right-12 top-25 flex items-center gap-2 mt-2 sm:absolute md:absolute lg:absolute"
       >
         <input
           type="number"
