@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/9ac3e_next_dist_compiled_next-devtools_index_bd73e49b.js",
+      "static/chunks/9ac3e_next_dist_compiled_ba065a61._.js",
+      "static/chunks/9ac3e_next_dist_shared_lib_8b626682._.js",
+      "static/chunks/9ac3e_next_dist_client_a7f6fd72._.js",
+      "static/chunks/9ac3e_next_dist_fa873c1d._.js",
+      "static/chunks/9ac3e_next_app_c7ac06c0.js",
+      "static/chunks/[next]_entry_page-loader_ts_2462cd2c._.js",
+      "static/chunks/9ac3e_react-dom_3c647db3._.js",
+      "static/chunks/9ac3e_b9bb3058._.js",
+      "static/chunks/[root-of-the-server]__402a2b10._.js",
+      "static/chunks/Desktop_tejapro_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_tejapro_pages__app_f2a6d90a._.js"
+    ],
+    "/_error": [
+      "static/chunks/9ac3e_next_dist_compiled_next-devtools_index_bd73e49b.js",
+      "static/chunks/9ac3e_next_dist_compiled_ba065a61._.js",
+      "static/chunks/9ac3e_next_dist_shared_lib_55a07eba._.js",
+      "static/chunks/9ac3e_next_dist_client_a7f6fd72._.js",
+      "static/chunks/9ac3e_next_dist_356b4e0c._.js",
+      "static/chunks/9ac3e_next_error_c86360f2.js",
+      "static/chunks/[next]_entry_page-loader_ts_c041a188._.js",
+      "static/chunks/9ac3e_react-dom_3c647db3._.js",
+      "static/chunks/9ac3e_b9bb3058._.js",
+      "static/chunks/[root-of-the-server]__d582379c._.js",
+      "static/chunks/Desktop_tejapro_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Desktop_tejapro_pages__error_b2b6c03a._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/9ac3e_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bd3e5097._.js",
+    "static/chunks/9ac3e_next_dist_compiled_react-dom_4d661563._.js",
+    "static/chunks/9ac3e_next_dist_compiled_next-devtools_index_15713703.js",
+    "static/chunks/9ac3e_next_dist_compiled_d381e35c._.js",
+    "static/chunks/9ac3e_next_dist_client_6cd067cd._.js",
+    "static/chunks/9ac3e_next_dist_86498ea9._.js",
+    "static/chunks/9ac3e_@swc_helpers_cjs_9efe5dcd._.js",
+    "static/chunks/Desktop_tejapro_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_tejapro_d5051704._.js"
+  ],
+  "ampFirstPages": []
+}
