@@ -24,7 +24,7 @@ export default function Page() {
       }}
     >
       <h1 className="absolute top-6 left-1/2 -translate-x-1/2 text-red-600  text-1xl md:text-4xl px-2 text-center w-[90vw] max-w-2xl font-bold">
-        <b> TRY TO COMPLETE 1 OR 2 PICTURES EACH DAY TULASI !!!</b>
+        <b>TAT - TRY TO COMPLETE 1 OR 2 PICTURES EACH DAY TULASI !!!</b>
       </h1>
       <FocusCards cards={cards} />
     </div>
